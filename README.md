@@ -1,5 +1,7 @@
 # About me
 
+Welcome to my github page! I'm César, I'm 24 years old, have a degree in computer systems technology, fascinated by the world of technology and have a little love with astronomy.
+
  <div>
   <a href="https://github.com/cesarzxk">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cesarzxk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
