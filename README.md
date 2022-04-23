@@ -1,6 +1,9 @@
 # About me
 
-Welcome to my github page! I'm César, I'm 24 years old, have a degree in computer systems technology, fascinated by the world of technology and have a little love with astronomy.
+<p>Hello, I'm César! Welcome to my favorite place, this is a place for relax and create my biggest projects, and you is a great visit, feel free to see any of my project's or see later following me!</p>
+
+![soulja-boy-pepe](https://user-images.githubusercontent.com/43748428/164916217-4feef82e-aab7-45fe-b543-0399cc9cf8e9.gif)
+
 
  <div>
   <a href="https://github.com/cesarzxk">
@@ -17,3 +20,4 @@ Welcome to my github page! I'm César, I'm 24 years old, have a degree in comput
 </p>
 
 </p>
+
