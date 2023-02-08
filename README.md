@@ -2,10 +2,10 @@
 
 <table>
   <tr>
-   <td valign="bottom" width='400px'> 
+   <td valign="bottom" width='323px'> 
     <img width='200px' src='https://user-images.githubusercontent.com/43748428/164916217-4feef82e-aab7-45fe-b543-0399cc9cf8e9.gif'/>
    </td>
-   <td width='400px'> 
+   <td width='523px'> 
    <pre><code> 
       ____________________________
      !\_________________________/!\
