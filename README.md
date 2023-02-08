@@ -1,8 +1,33 @@
 # About me
 
-<p>Hello, I'm César! Welcome to my favorite place, this is a place for relax and create my biggest projects, and you is a great visit, feel free to see any of my project's or see later following me!</p>
+<table>
+  <tr>
+   <td valign="bottom" width='400px'> 
+    <img width='200px' src='https://user-images.githubusercontent.com/43748428/164916217-4feef82e-aab7-45fe-b543-0399cc9cf8e9.gif'/>
+   </td>
+   <td width='400px'> 
+   <pre><code> 
+      ____________________________
+     !\_________________________/!\
+     !!                         !! \
+     !! Hello! I&#39;m César!       !!  \
+     !! Welcome to my favorite  !!  !
+     !! place, this is a place  !!  !
+     !! for relax and create my !!  !
+     !! biggest projects, and   !!  !
+     !! you is a great visit,   !!  !
+     !! feel free to see any    !!  !
+     !! of my project&#39;s or see  !!  !
+     !! later following me!     !!  /
+     !!_________________________!! /
+     !/_________________________\!/
+        __\_________________/__/!_
+       !_______________________!/    
+     </code></pre>
+   </td>
+  </tr>
+</table>
 
-![soulja-boy-pepe](https://user-images.githubusercontent.com/43748428/164916217-4feef82e-aab7-45fe-b543-0399cc9cf8e9.gif)
 
 
  <div>
