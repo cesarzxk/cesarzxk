@@ -1,7 +1,7 @@
 # About me
 <div  align="center">
-<img width='418' height="200" src="https://user-images.githubusercontent.com/43748428/218722087-667fc525-d2a4-4f55-856a-61a1b0cf7648.gif"/>
-<img width='418' height="200" src="https://user-images.githubusercontent.com/43748428/218722087-667fc525-d2a4-4f55-856a-61a1b0cf7648.gif"/>
+<img width='420' height="200" src="https://user-images.githubusercontent.com/43748428/218722087-667fc525-d2a4-4f55-856a-61a1b0cf7648.gif"/>
+<img width='420' height="200" src="https://user-images.githubusercontent.com/43748428/218722087-667fc525-d2a4-4f55-856a-61a1b0cf7648.gif"/>
   <div/>
 <table>
 
