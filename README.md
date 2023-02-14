@@ -1,7 +1,7 @@
 # About me
-<div>
-<img width='410' height="200" src="https://user-images.githubusercontent.com/43748428/218722087-667fc525-d2a4-4f55-856a-61a1b0cf7648.gif"/>
-<img width='410' height="200" src="https://user-images.githubusercontent.com/43748428/218722087-667fc525-d2a4-4f55-856a-61a1b0cf7648.gif"/>
+<div  align="center">
+<img width='206em' height="200" src="https://user-images.githubusercontent.com/43748428/218722087-667fc525-d2a4-4f55-856a-61a1b0cf7648.gif"/>
+<img width='206em' height="200" src="https://user-images.githubusercontent.com/43748428/218722087-667fc525-d2a4-4f55-856a-61a1b0cf7648.gif"/>
   <div/>
 <table>
 
@@ -32,16 +32,16 @@
   </tr>
 </table>
 
-<div>
-<img width='410' height="200" src="https://user-images.githubusercontent.com/43748428/218726330-64f37053-7221-44eb-a788-1f5930c1f5df.gif"/>
-<img width='410' height="200" src="https://user-images.githubusercontent.com/43748428/218726330-64f37053-7221-44eb-a788-1f5930c1f5df.gif"/>
+<div  align="center">
+<img width='206em' height="200" src="https://user-images.githubusercontent.com/43748428/218726330-64f37053-7221-44eb-a788-1f5930c1f5df.gif"/>
+<img width='206em' height="200" src="https://user-images.githubusercontent.com/43748428/218726330-64f37053-7221-44eb-a788-1f5930c1f5df.gif"/>
   <div/>
 
 
- <div>
+ <div  align="center">
   <a href="https://github.com/cesarzxk">
-  <img height="205em" src="https://github-readme-stats.vercel.app/api?username=cesarzxk&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarzxk&layout=compact&langs_count=16&theme=merko"/>
+  <img height="206em" src="https://github-readme-stats.vercel.app/api?username=cesarzxk&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="206em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarzxk&layout=compact&langs_count=16&theme=merko"/>
 </div>
 
    
