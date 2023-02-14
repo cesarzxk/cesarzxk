@@ -1,8 +1,12 @@
 # About me
-
+<div>
+<img width='423' height="200" src="https://user-images.githubusercontent.com/43748428/218722087-667fc525-d2a4-4f55-856a-61a1b0cf7648.gif"/>
+<img width='423' height="200" src="https://user-images.githubusercontent.com/43748428/218722087-667fc525-d2a4-4f55-856a-61a1b0cf7648.gif"/>
+  <div/>
 <table>
+
   <tr>
-   <td valign="bottom" width='373px' align='center'> 
+   <td valign="bottom" width='373px' align='center' styles="background-color:rgb(0, 0, 0)"> 
     <img width='200px' src='https://user-images.githubusercontent.com/43748428/164916217-4feef82e-aab7-45fe-b543-0399cc9cf8e9.gif'/>
    </td>
    <td width='473px'> 
@@ -27,6 +31,11 @@
    </td>
   </tr>
 </table>
+
+<div>
+<img width='423' height="200" src="https://user-images.githubusercontent.com/43748428/218726330-64f37053-7221-44eb-a788-1f5930c1f5df.gif"/>
+<img width='423' height="200" src="https://user-images.githubusercontent.com/43748428/218726330-64f37053-7221-44eb-a788-1f5930c1f5df.gif"/>
+  <div/>
 
 
 
