@@ -33,8 +33,8 @@
 </table>
 
 <div>
-<img width='423' height="200" src="https://user-images.githubusercontent.com/43748428/218726330-64f37053-7221-44eb-a788-1f5930c1f5df.gif"/>
-<img width='423' height="200" src="https://user-images.githubusercontent.com/43748428/218726330-64f37053-7221-44eb-a788-1f5930c1f5df.gif"/>
+<img width='400' height="200" src="https://user-images.githubusercontent.com/43748428/218726330-64f37053-7221-44eb-a788-1f5930c1f5df.gif"/>
+<img width='400' height="200" src="https://user-images.githubusercontent.com/43748428/218726330-64f37053-7221-44eb-a788-1f5930c1f5df.gif"/>
   <div/>
 
 
