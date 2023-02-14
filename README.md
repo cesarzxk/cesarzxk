@@ -1,7 +1,7 @@
 # About me
 <div  align="center">
-<img width='206em' height="200" src="https://user-images.githubusercontent.com/43748428/218722087-667fc525-d2a4-4f55-856a-61a1b0cf7648.gif"/>
-<img width='206em' height="200" src="https://user-images.githubusercontent.com/43748428/218722087-667fc525-d2a4-4f55-856a-61a1b0cf7648.gif"/>
+<img width='413' height="200" src="https://user-images.githubusercontent.com/43748428/218722087-667fc525-d2a4-4f55-856a-61a1b0cf7648.gif"/>
+<img width='413' height="200" src="https://user-images.githubusercontent.com/43748428/218722087-667fc525-d2a4-4f55-856a-61a1b0cf7648.gif"/>
   <div/>
 <table>
 
@@ -33,8 +33,8 @@
 </table>
 
 <div  align="center">
-<img width='206em' height="200" src="https://user-images.githubusercontent.com/43748428/218726330-64f37053-7221-44eb-a788-1f5930c1f5df.gif"/>
-<img width='206em' height="200" src="https://user-images.githubusercontent.com/43748428/218726330-64f37053-7221-44eb-a788-1f5930c1f5df.gif"/>
+<img width='413' height="200" src="https://user-images.githubusercontent.com/43748428/218726330-64f37053-7221-44eb-a788-1f5930c1f5df.gif"/>
+<img width='413' height="200" src="https://user-images.githubusercontent.com/43748428/218726330-64f37053-7221-44eb-a788-1f5930c1f5df.gif"/>
   <div/>
 
 
