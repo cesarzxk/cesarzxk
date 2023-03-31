@@ -18,7 +18,7 @@
      !! favorite place, this  is a place         !! |
      !! for relax and create my biggest          !! |
      !! projects, and you is a great visit,      !! |
-     !! feel free to see any of my project&#39;s !! |
+     !! feel free to see any of my project&#39;s   !! |
      !! or see later following me!               !! |
      !!                                          !! |
      !!                                          !! |
