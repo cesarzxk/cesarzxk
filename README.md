@@ -1,3 +1,9 @@
+
+<div  align="center">
+<img width='421' height="200" src="https://github.com/cesarzxk/cesarzxk/assets/43748428/2e4da1a9-99aa-42bb-a2fa-1897d5126e19"/>
+<img width='421' height="200" src="https://github.com/cesarzxk/cesarzxk/assets/43748428/2e4da1a9-99aa-42bb-a2fa-1897d5126e19"/>
+  <div/>
+
 # About me
 <div  align="center">
 <img width='421' height="200" src="https://user-images.githubusercontent.com/43748428/218722087-667fc525-d2a4-4f55-856a-61a1b0cf7648.gif"/>
@@ -56,5 +62,6 @@
   </p>
 </p>
 
-</p>
+</p>!
+
 
