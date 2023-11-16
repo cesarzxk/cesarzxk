@@ -28,7 +28,6 @@
      !! projects, and you is a great visit,      !! |
      !! feel free to see any of my project&#39;s      !! |
      !! or see later following me!               !! |
-
      !!                                          !! |
      !!                                          !! |
      !!                                          !! |
