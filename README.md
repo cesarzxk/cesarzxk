@@ -1,10 +1,12 @@
 
 <div  align="center">
-<img width='421' height="200" src="https://github.com/cesarzxk/cesarzxk/assets/43748428/2e4da1a9-99aa-42bb-a2fa-1897d5126e19"/>
-<img width='421' height="200" src="https://github.com/cesarzxk/cesarzxk/assets/43748428/2e4da1a9-99aa-42bb-a2fa-1897d5126e19"/>
+<img width='210.5' height="200" src="https://github.com/cesarzxk/cesarzxk/assets/43748428/0b20c43c-dfe9-4296-bc23-f81db7f67fd7"/>
+<img width='210.5' height="200" src="https://github.com/cesarzxk/cesarzxk/assets/43748428/0b20c43c-dfe9-4296-bc23-f81db7f67fd7"/>
+<img width='210.5' height="200" src="https://github.com/cesarzxk/cesarzxk/assets/43748428/0b20c43c-dfe9-4296-bc23-f81db7f67fd7"/>
+<img width='210.5' height="200" src="https://github.com/cesarzxk/cesarzxk/assets/43748428/0b20c43c-dfe9-4296-bc23-f81db7f67fd7"/>
   <div/>
 
-# Happy Halloween
+# Happy Christmas
 <div  align="center">
 <img width='421' height="200" src="https://user-images.githubusercontent.com/43748428/218722087-667fc525-d2a4-4f55-856a-61a1b0cf7648.gif"/>
 <img width='421' height="200" src="https://user-images.githubusercontent.com/43748428/218722087-667fc525-d2a4-4f55-856a-61a1b0cf7648.gif"/>
@@ -26,6 +28,7 @@
      !! projects, and you is a great visit,      !! |
      !! feel free to see any of my project&#39;s      !! |
      !! or see later following me!               !! |
+
      !!                                          !! |
      !!                                          !! |
      !!                                          !! |
@@ -46,8 +49,8 @@
 
  <div  align="center">
   <a href="https://github.com/cesarzxk">
-  <img height="206em" src="https://github-readme-stats.vercel.app/api?username=cesarzxk&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="206em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarzxk&layout=compact&langs_count=16&theme=gruvbox"/>
+  <img height="206em" src="https://github-readme-stats.vercel.app/api?username=cesarzxk&show_icons=true&include_all_commits=true&count_private=true&text_color=ffffff&title_color=ffffff&bg_color=480E0D&border_color=CF9264&icon_color=FFF08C"/>
+  <img height="206em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarzxk&layout=compact&langs_count=16&text_color=ffffff&title_color=ffffff&bg_color=480E0D&border_color=CF9264&icon_color=FFF08C"/>
 </div>
 
    
