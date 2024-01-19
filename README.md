@@ -1,16 +1,4 @@
 <div  align="center">
-<h1> Happy Christmas</h1>
-<div/>
-  
-<div  align="center">
-<img width='210.5' height="200" src="https://github.com/cesarzxk/cesarzxk/assets/43748428/0b20c43c-dfe9-4296-bc23-f81db7f67fd7"/>
-<img width='210.5' height="200" src="https://github.com/cesarzxk/cesarzxk/assets/43748428/0b20c43c-dfe9-4296-bc23-f81db7f67fd7"/>
-<img width='210.5' height="200" src="https://github.com/cesarzxk/cesarzxk/assets/43748428/0b20c43c-dfe9-4296-bc23-f81db7f67fd7"/>
-<img width='210.5' height="200" src="https://github.com/cesarzxk/cesarzxk/assets/43748428/0b20c43c-dfe9-4296-bc23-f81db7f67fd7"/>
-  <div/>
-
-
-<div  align="center">
 <img width='421' height="200" src="https://user-images.githubusercontent.com/43748428/218722087-667fc525-d2a4-4f55-856a-61a1b0cf7648.gif"/>
 <img width='421' height="200" src="https://user-images.githubusercontent.com/43748428/218722087-667fc525-d2a4-4f55-856a-61a1b0cf7648.gif"/>
   <div/>
@@ -51,8 +39,8 @@
 
  <div  align="center">
   <a href="https://github.com/cesarzxk">
-  <img height="206em" src="https://github-readme-stats.vercel.app/api?username=cesarzxk&include_all_commits=true&show_icons=true&count_private=true&text_color=ffffff&title_color=ffffff&bg_color=480E0D&border_color=CF9264&icon_color=FFF08C"/>
-  <img height="206em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarzxk&layout=compact&langs_count=16&text_color=ffffff&title_color=ffffff&bg_color=480E0D&border_color=CF9264&icon_color=FFF08C"/>
+  <img height="206em" src="https://github-readme-stats.vercel.app/api?username=cesarzxk&include_all_commits=true&show_icons=true&count_private=true"/>
+  <img height="206em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarzxk&layout=compact&langs_count=16"/>
 </div>
 
    
