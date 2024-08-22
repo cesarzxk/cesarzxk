@@ -39,8 +39,8 @@
 
  <div  align="center">
   <a href="https://github.com/cesarzxk">
-  <img height="206em" src="https://github-readme-stats.vercel.app/api?username=cesarzxk&include_all_commits=true&show_icons=true&count_private=true"/>
-  <img height="206em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarzxk&layout=compact&langs_count=16"/>
+  <img height="206em" src="https://github-readme-stats.vercel.app/api?username=cesarzxk&include_all_commits=true&show_icons=true&count_private=true&theme=merko"/>
+  <img height="206em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarzxk&layout=compact&langs_count=16&theme=merko"/>
 </div>
 
    
