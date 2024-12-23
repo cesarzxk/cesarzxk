@@ -50,7 +50,7 @@
  <p align="left">
   <a href="https://www.linkedin.com/in/cs-vargas" target="_blank" alt="LinkedIn">
     <img  src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cs-vargas"></a>  
-  <a href="mailto:cesar_vargas@id.uff.br" alt="Email">
+  <a href="mailto:cesar.vgst@gmail.com" alt="Email">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cesar_vargas@id.uff.br"></a>  
   </p>
 </p>
