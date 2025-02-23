@@ -13,19 +13,20 @@
       ____________________________________________
      !\__________________________________________/!\
      !!                                          !! |
-     !! Hello! I&#39;m César! Welcome to my           !! |
-     !! favorite place, this  is a place         !! |
-     !! for relax and create my biggest          !! |
-     !! projects, and you is a great visit,      !! |
-     !! feel free to see any of my project&#39;s      !! |
-     !! or see later following me!               !! |
+     !! Hello! I'm César! Welcome to my          !! |
+     !! favorite place. This is a place          !! |
+     !! to relax and create my biggest           !! |
+     !! projects, and you are a great visitor.   !! |
+     !! Feel free to check out any of my         !! |
+     !! projects or follow me to see more later! !! |
      !!                                          !! |
      !!                                          !! |
      !!                                          !! |
      !!__________________________________________!! /
      !/__________________________________________\!/
-         __\____________________________/__/!_
-        !__________________________________!/    
+          __\____________________________/__/!_
+         !__________________________________!/    
+ 
      </code></pre>
    </td>
   </tr>
