@@ -35,14 +35,7 @@
 <img width='421' height="200" src="https://user-images.githubusercontent.com/43748428/218726330-64f37053-7221-44eb-a788-1f5930c1f5df.gif"/>
   <div/>
 
-
- <div  align="center">
-  <a href="https://github.com/cesarzxk">
-  <img height="206em" src="https://github-readme-stats.vercel.app/api?username=cesarzxk&include_all_commits=true&show_icons=true&count_private=true&theme=merko"/>
-  <img height="206em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarzxk&layout=compact&langs_count=16&theme=merko"/>
-</div>
-
-   
+![](./profile-3d-contrib/profile-night-green.svg)
    
 <br/><br/>
   <strong>Contact me!</strong>
@@ -55,5 +48,6 @@
 </p>
 
 </p>
+
 
 
